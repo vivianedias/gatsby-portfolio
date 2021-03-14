@@ -44,6 +44,7 @@ const StyledContentWrapper = styled(ContentWrapper)`
       .avatar {
         width: 100%;
         max-width: 8.75rem;
+        height: 8.75rem;
         border-radius: 50%;
         margin-right: 4rem;
         margin-bottom: 2rem;
